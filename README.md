@@ -36,7 +36,7 @@ Practicing JavaScript Scopes
 [Credits](#Credits)  
 <a name="Credits"/>
 ### Description: 
-
+I focus on JavaScript Local & Global scope. The main goal was to get an understanding of how the scope works within the function and how it works outside the function.
 
 ### Prerequisites:
 
