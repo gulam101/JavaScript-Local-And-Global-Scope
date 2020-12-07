@@ -52,6 +52,8 @@ I focus on JavaScript Local & Global scope. The main goal was to get an understa
 - Step 6: Access browser console
 
 ### What I learned:
+- Local Scope within a function
+- Global Scope outside a function
 
 ### Constraints:
 
