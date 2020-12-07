@@ -39,8 +39,17 @@ Practicing JavaScript Scopes
 I focus on JavaScript Local & Global scope. The main goal was to get an understanding of how the scope works within the function and how it works outside the function.
 
 ### Prerequisites:
+- Any Modern Browser (Preferably Chrome or Firefox)
+- Any IDE to view code (Preferably VS Code or Brackets)
+- Access to developer tools on web browser
 
 ### Instructions:
+- Step 1: Load Up IDE (If you don't have one use this: https://visualstudio.microsoft.com/)
+- Step 2: Clone project or download from GitHub
+- Step 3: Load up project in IDE
+- Step 4: Right click on the .html file and click Live Server
+- Step 5: Load up developer tools on browser
+- Step 6: Access browser console
 
 ### What I learned:
 
