@@ -56,6 +56,7 @@ I focus on JavaScript Local & Global scope. The main goal was to get an understa
 - Global Scope outside a function
 
 ### Constraints:
+I was learning so I didn't have any problems
 
 ### Improvements:
 
