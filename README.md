@@ -56,14 +56,19 @@ I focus on JavaScript Local & Global scope. The main goal was to get an understa
 - Global Scope outside a function
 
 ### Constraints:
-I was learning so I didn't have any problems
+none
 
 ### Improvements:
+- Improvement ID:
+- Description: 
 
 ### Development Changes:
+Development changes tracks the changes that happend to the project. It orders it by date and description.
 
 ### Resources:
+https://www.youtube.com/watch?v=hTU1OSbnov8&ab_channel=DaniKrossing
 
 ### Screenshots:
 
 ### Credits:
+- Dani Krossing (For Tutorial)
