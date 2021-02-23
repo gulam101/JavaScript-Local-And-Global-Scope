@@ -68,7 +68,7 @@ Development changes tracks the changes that happend to the project. It orders it
 ### Resources:
 https://www.youtube.com/watch?v=hTU1OSbnov8&ab_channel=DaniKrossing
 
-### Screenshots:
+### Screenshots:![js-local-img](https://user-images.githubusercontent.com/45819118/108855765-3d366b00-75e1-11eb-8c58-677d1584a18f.PNG)
 
 ### Credits:
 - Dani Krossing (For Tutorial)
